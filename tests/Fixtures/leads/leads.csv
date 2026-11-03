@@ -1,0 +1,7 @@
+Full name,Email,Company,Job title,Company size,Budget,Notes
+Dana Whitfield,Dana@Northwind-Interiors.example,Northwind Interiors,Principal Designer,11-50,$25k-$50k,Fitting out a 12-room boutique hotel in spring.
+Marcus Bell,not-an-email,,Student,,,University project.
+Aiko Tanaka,aiko@brightspace-offices.example,Brightspace Offices,Facilities Lead,201-1000,$50k+,Refurbishing two office floors.
+
+,,,,,,
+Repeat Dana,dana@northwind-interiors.example,Northwind,,,,Duplicate row.
